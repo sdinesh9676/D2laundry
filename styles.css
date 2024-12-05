@@ -178,6 +178,7 @@ nav {
 .cta-button.primary {
   background-color: #ffa500;
   color: #fff;
+  margin-left: 1px;
 }
 
 .cta-button.primary:hover {
@@ -610,11 +611,13 @@ nav {
 .contact-button.whatsapp {
   background-color: #25d366; /* WhatsApp green */
   color: #fff;
+  margin-left: 1px;
 }
 
 .contact-button.call {
   background-color: #007bff; /* Call button blue */
   color: #fff;
+  margin-left: 1px;
 }
 
 .contact-button:hover {
